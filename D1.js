@@ -49,7 +49,7 @@ let num1 = 12;
 let num2 = 20;
 console.log (num1 , num2);
 
-let num3 = num1 + num2;
+let num3 = num1 + num2; //oppure console.log (num1 + num 2)
 console.log (num3);
 
 
@@ -79,7 +79,7 @@ console.log (name);
 
 const surname = "ceragioli";
 console.log (surname);
-surname = Laura;
+surname = "Laura";
 console.log (surname);
 // Su inspect risulterà errore perchè una costante non può cambiare il proprio valore.
 
