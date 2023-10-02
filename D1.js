@@ -23,6 +23,7 @@ REGOLE
               ! --> singifica "Not" e si utilizza per avere il risultato opposto a quello reale,
    - NaN = Si può considerare anche nella categoria "Number", sinifica "Not a Number" e indica che non ci sono numeri;
    - Null = Si scrive quando vogliamo intenzionalmente lasciare vuoto un contenitore per poi eventualmente riempirlo, si scrive "null" al posto del valore --> let num = null.
+   -Undefine = Un valore che non è stato messo per errore
 */   
 
 
